@@ -1,0 +1,3 @@
+- hi, im ciandoesstuff
+- i program using python and gdscript
+- i like playing lingo and baba is you
