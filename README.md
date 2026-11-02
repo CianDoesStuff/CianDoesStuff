@@ -1,3 +1,2 @@
-- hi, im ciandoesstuff
-- i program using python and gdscript
-- i like playing lingo and baba is you
+hello, im cds and i make a lot of things
+- he/they
